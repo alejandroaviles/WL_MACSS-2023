@@ -6,7 +6,7 @@ Repository for the Weak Lensing Projects @ MACSS 2023 (León, Guanajuato)
  
  Alejandro Aviles (avilescervantes@gmail.com)
 
-This course is designed to provide a practical learning experience through project-based activities. Regrettably, due to time constraints, we won't be able to delve into the weak galaxy lensing theory extensively. However, detailed notes on the topic can be found in the repository.
+This course is designed to provide a practical learning experience through project-based activities. Regrettably, due to time constraints, we won't be able to delve into the weak galaxy lensing theory extensively. However, detailed notes on the topic can be found in the repository .
 
 The workshop will be divided into three sessions, each lasting 1.5 hours. In each session, we will begin with a brief introduction lasting 10-20 minutes, after which we will dive straight into project work.
 
