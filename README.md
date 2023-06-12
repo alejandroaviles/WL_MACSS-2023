@@ -7,5 +7,5 @@ Projects:
 
 2. Construct an estimator for the shear (spin-2) field
 
-3. Weak Lensing shear Correlation Function with TreeCorr [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/weiji14/deepbedmap/](https://colab.research.google.com/github/alejandroaviles/WL_MACSS-2023/blob/main/Project3_xipm_from_simulations.ipynb)]
+3. Weak Lensing shear Correlation Function with TreeCorr [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alejandroaviles/WL_MACSS-2023/blob/main/Project3_xipm_from_simulations.ipynb)
   
