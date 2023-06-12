@@ -9,9 +9,10 @@ Projects:
 
 3. Weak Lensing shear Correlation Function with TreeCorr [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alejandroaviles/WL_MACSS-2023/blob/main/Project3_xipm_from_simulations.ipynb)
 
-        # **Exercise**
 
-### Do the same for the rest of the realizations: 
+### 3. Weak Lensing shear Correlation Function with TreeCorr [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alejandroaviles/WL_MACSS-2023/blob/main/Project3_xipm_from_simulations.ipynb) 
+
+#### We will work out one simulation. You do the same for the rest of simulations: 
 
 1. Choose either simulations A or simulations B: *gamma_{A,B}.{0-9}.fits*. 
 2. Take the average of the 10 realizations and the standard deviations. 
