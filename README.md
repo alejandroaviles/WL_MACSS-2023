@@ -1,7 +1,11 @@
 # WL_MACSS-2023
 
+## Sofia Samario  (sofia@mail.com)
+## Alejandro Aviles (avilescervantes@gmail.com)
 
-Projects: 
+This is the Repository for the Weak Lensing Projects @ MACSS 2023 (León, Guanajuato)
+
+This course is mores
 
 ## 1. Construct an estimator for the convergence (spin-0) field. 
 #### Notes [here](https://docs.google.com/presentation/d/1Hk1i3SMs77jpnJYseMkCtkn119gkUelf1pr7y2mSrJY/edit?usp=sharing)
