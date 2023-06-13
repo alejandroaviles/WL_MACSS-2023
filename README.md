@@ -2,7 +2,7 @@
 
 Repository for the Weak Lensing Projects @ MACSS 2023 (León, Guanajuato)
 
- Sofia Samario  (sofia@mail.com)
+ Sofia Samario  (sabiduria_sofy@hotmail.com)
  
  Alejandro Aviles (avilescervantes@gmail.com)
 
