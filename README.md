@@ -15,7 +15,7 @@ The workshop will be divided into three sessions, each lasting 1.5 or 2 hours. I
 #### Data set [here](https://drive.google.com/file/d/1RkyBaKdy7IfvTGfy2uoMBWzhooJTTz2V/view?usp=sharing)
 
 ## 2. Construct an estimator for the shear (spin-2) field
-#### Data set [here](https://drive.google.com/file/d/1otZpDi-WJJdIf0xye1wFIIo_bqdlAt8R/view?usp=sharing)
+#### Data set [here](https://drive.google.com/file/d/18HKZsJ8Cz_lBFZkW4FHcfLqfWcQvqwew/view?usp=sharing)
 
 ## 3. Weak Lensing shear Correlation Function with TreeCorr [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alejandroaviles/WL_MACSS-2023/blob/main/Project3_xipm_from_simulations.ipynb) 
 
