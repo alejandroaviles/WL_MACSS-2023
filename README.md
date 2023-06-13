@@ -8,7 +8,7 @@ Repository for the Weak Lensing Projects @ MACSS 2023 (León, Guanajuato)
 
 This course is designed to provide a practical learning experience through project-based activities. Regrettably, due to time constraints, we won't be able to delve into the weak galaxy lensing theory extensively. However, detailed notes on the topic can be found in this repository.
 
-The workshop will be divided into three sessions, each lasting 1.5 hours. In each session, we will begin with a brief introduction lasting 10-20 minutes, after which we will dive straight into project work.
+The workshop will be divided into three sessions, each lasting 1.5 or 2 hours. In each session, we will begin with a brief introduction lasting 10-20 minutes, after which we will dive straight into project work.
 
 ## 1. Construct an estimator for the convergence (spin-0) field. 
 #### Notes [here](https://docs.google.com/presentation/d/1Hk1i3SMs77jpnJYseMkCtkn119gkUelf1pr7y2mSrJY/edit?usp=sharing)
