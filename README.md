@@ -12,6 +12,7 @@ The workshop will be divided into three sessions, each lasting 1.5 or 2 hours. I
 
 ## 1. Construct an estimator for the convergence (spin-0) field. 
 #### Notes [here](https://docs.google.com/presentation/d/1Hk1i3SMs77jpnJYseMkCtkn119gkUelf1pr7y2mSrJY/edit?usp=sharing)
+#### Data set [here](https://drive.google.com/file/d/1RkyBaKdy7IfvTGfy2uoMBWzhooJTTz2V/view?usp=sharing)
 
 ## 2. Construct an estimator for the shear (spin-2) field
 
