@@ -20,6 +20,8 @@ The workshop will be divided into three sessions, each lasting 1.5 or 2 hours. I
 
 ## 3. Weak Lensing shear Correlation Function with TreeCorr [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alejandroaviles/WL_MACSS-2023/blob/main/Project3_xipm_from_simulations.ipynb) 
 
+#### Project Slides [here](https://docs.google.com/presentation/d/14qvONWvXg-ibdeZG9mUAavlx5CpEWuMco7bbHeKtApE/edit?usp=sharing)
+
 #### We will work out one simulation. You do the same for 10 simulations: 
 
 1. Choose either cosmologies A or B and run the notebook for *gamma_{A,B}.{0-9}.fits*. 
