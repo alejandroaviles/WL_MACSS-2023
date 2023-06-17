@@ -11,10 +11,11 @@ This course is designed to provide a practical learning experience through proje
 The workshop will be divided into three sessions, each lasting 1.5 or 2 hours. In each session, we will begin with a brief introduction lasting 10-20 minutes, after which we will dive straight into project work.
 
 ## 1. Construct an estimator for the convergence (spin-0) field. 
-#### Notes [here](https://docs.google.com/presentation/d/1Hk1i3SMs77jpnJYseMkCtkn119gkUelf1pr7y2mSrJY/edit?usp=sharing)
+#### Project Slides [here](https://docs.google.com/presentation/d/1aDPoimBvQIj5iUH8i2KXsXNFTrShpO7tlLCpBsasRMI/edit?usp=sharing)
 #### Data set [here](https://drive.google.com/file/d/1RkyBaKdy7IfvTGfy2uoMBWzhooJTTz2V/view?usp=sharing)
 
 ## 2. Construct an estimator for the shear (spin-2) field
+#### Project Slides [here](https://docs.google.com/presentation/d/1E_Xh6PaGx8FXcd3u7DGpVtfvjQ0tkpjW81nLqHb-Teg/edit?usp=sharing)
 #### Data set [here](https://drive.google.com/file/d/18HKZsJ8Cz_lBFZkW4FHcfLqfWcQvqwew/view?usp=sharing)
 
 ## 3. Weak Lensing shear Correlation Function with TreeCorr [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alejandroaviles/WL_MACSS-2023/blob/main/Project3_xipm_from_simulations.ipynb) 
